@@ -9,7 +9,7 @@
 		"start": "node server.js"
 	},
 	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"type": "git"
+		"url": "https://github.com/yobwee-zy/100daysofcode-Back-End-Development-and-APIs.git"
 	}
 }
